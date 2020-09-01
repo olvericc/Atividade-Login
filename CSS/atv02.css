@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url(img/backlogin2.jpg);
+    background-size: cover; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.login{
+    width: 320px;
+    height: 420px;
+    border: 2px solid #000;
+    color: #fff;
+    background-color: rgba(0,0,6,0.7);
+    top: 50%;
+    left: 50%;
+    position: initial;
+    box-sizing: border-box;
+    padding: 68px 28px;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:120px;
+}
